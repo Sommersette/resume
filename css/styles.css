@@ -12,3 +12,14 @@
   font-family: sans-serif;
   font-size: 18px;
 }
+
+.rerum{
+  font-family: monospace;
+  color: red;
+}
+
+.nec{
+  font-style:oblique;
+  font-weight: bolder;
+  color: blue;
+}
